@@ -394,6 +394,10 @@ p a {
     padding-right: 1em;
 }
 
+.logo img {
+    width: 12.5rem;
+}
+
 .tagline {
     margin: 66px 0 22px 0;
     text-align: right;
